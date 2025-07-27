@@ -1,0 +1,3 @@
+Localhost URL: http://localhost/KKK-System/
+
+Hosting URL: https://kkksystem.xyz/
