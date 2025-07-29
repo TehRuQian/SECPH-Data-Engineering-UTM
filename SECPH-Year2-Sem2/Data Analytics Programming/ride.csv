@@ -1,0 +1,11 @@
+ride_id,driver_name,rider_name,city,distance,duration,fare
+R001,Ali,Karen,New York,12.5,35,23.75
+R002,Mei,John,Los Angeles,8.0,20,18.00
+R003,Ravi,Lisa,Chicago,5.3,15,12.50
+R004,Ali,James,New York,10.0,28,21.00
+R005,Mei,Sarah,Los Angeles,7.2,22,17.50
+R006,Ravi,Daniel,Chicago,6.0,18,14.00
+R007,Ali,Alice,New York,15.0,40,27.00
+R008,Sara,Mike,Boston,9.5,25,19.00
+R009,Sara,Emma,Boston,11.0,30,21.50
+R010,Ravi,David,Chicago,8.2,20,16.25
