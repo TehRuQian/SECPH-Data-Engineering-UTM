@@ -1,0 +1,19 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    match /notes/{noteId} {
+      // Anyone signed in can list notes — but only their own (enforced by query).
+      allow read: if request.auth != null
+                  && resource.data.ownerId == request.auth.uid;
+
+      // Creating: must be signed in and the new note's ownerId must be yours.
+      allow create: if request.auth != null
+                    && request.resource.data.ownerId == request.auth.uid;
+
+      // Updating / deleting: only allowed on your own notes.
+      allow update, delete: if request.auth != null
+                            && resource.data.ownerId == request.auth.uid;
+    }
+  }
+}
