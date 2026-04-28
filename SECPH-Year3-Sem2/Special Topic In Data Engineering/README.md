@@ -13,3 +13,9 @@ This course explores modern data engineering concepts, tools, and industry trend
 # Industry-based Learning
 ### Industry Visit to PPG
 `REFLECTION ` On 3 July 2026, I had the chance to visit PPG and it was a really meaningful experience. We learnt more about how SAP and data analytics are actually used in a real working environment, which made things feel much more practical compared to what we study in class. I also enjoyed hearing about the seniors’ internship experiences—it gave me a better idea of what to expect and how I can start preparing myself. Overall, really grateful for the opportunity and the insights shared. Definitely learned a lot from this visit. 
+
+### Workshop on Advanced Machine Learning
+`REFLECTION ` This workshop conducted by Dr. Shamini provided a clear understanding of how to evaluate and improve classification models using metrics such as precision, recall and F1-score, rather than relying only on accuracy. It introduced a structured approach starting with a baseline model like SVM, followed by improvements through hyperparameter tuning such as Optuna and hybrid models, then comparing results to select the most suitable model. Overall, the session emphasized that the best model is one that achieves balanced performance across key metrics, not just the highest accuracy.
+
+- [Hands-on Activity]()
+
