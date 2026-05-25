@@ -17,5 +17,5 @@ This course explores modern data engineering concepts, tools, and industry trend
 ### Workshop on Advanced Machine Learning
 `REFLECTION ` This workshop conducted by Dr. Shamini provided a clear understanding of how to evaluate and improve classification models using metrics such as precision, recall and F1-score, rather than relying only on accuracy. It introduced a structured approach starting with a baseline model like SVM, followed by improvements through hyperparameter tuning such as Optuna and hybrid models, then comparing results to select the most suitable model. Overall, the session emphasized that the best model is one that achieves balanced performance across key metrics, not just the highest accuracy.
 
-- [Hands-on Activity]()
+- [Hands-on Activity](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Special%20Topic%20In%20Data%20Engineering/Workshop%20Advanced%20Machine%20Learning.ipynb)
 
