@@ -8,6 +8,9 @@ This course explores modern data engineering concepts, tools, and industry trend
 ### [Tutorial MS Azure End-To-End Data Engineering Project](https://github.com/TehRuQian/End2End-ADF)
 `REFLECTION ` By completing this project, I gained a better understanding of how an end-to-end data pipeline works. I was able to see how different Azure services are connected and how data moves from one stage to another, starting from data ingestion, followed by transformation, and finally visualization. I also learned how important it is to properly structure and clean data before using it for analysis.
 
+### [Tutorial Creating Simple ETL Pipeline With Apache Spark(https://github.com/TehRuQian/Simple-ETL-Pipeline-With-Apache-Spark)
+`REFLECTION ` This project was challenging because it involved integrating multiple technologies such as Python, Apache Spark, Docker, PostgreSQL, and Metabase while adapting Linux-based configurations to a Windows environment using WSL. Setting up components like the PostgreSQL JDBC driver, Apache Spark, and Hadoop required extensive troubleshooting and collaboration among team members. Overall, the project enhanced our data engineering skills, problem-solving abilities, teamwork, and practical experience in building real-world ETL pipelines.
+
 ### [Project Industry PPG]()
 
 # Industry-based Learning
