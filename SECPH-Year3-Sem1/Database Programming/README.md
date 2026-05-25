@@ -31,3 +31,6 @@ The Car Rental System is a MongoDB-based NoSQL project developed to manage custo
 - [Documentation](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem1/Database%20Programming/Project2_Final_Report.pdf)
 - [Code Implementation](https://github.com/TehRuQian/DP-Project/tree/main/Project%20II)
 - [Slide](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem1/Database%20Programming/Project_Slides.pdf)
+
+## Reflection
+Through these assignments and projects, I gained practical experience in designing and managing both relational and non-relational databases using MySQL and MongoDB. I improved my understanding of SQL queries, indexing, aggregation, transaction management, concurrency control, and NoSQL database concepts through hands-on implementation and real-world case studies. Overall, this course strengthened my database programming skills and enhanced my ability to develop efficient, secure, and well-structured backend database systems.
