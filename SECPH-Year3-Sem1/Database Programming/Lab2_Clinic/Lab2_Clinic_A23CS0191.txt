@@ -1,0 +1,176 @@
+Question A1
+use clinicdb
+db.createCollection("appointments")
+db.createCollection("loginSessions")
+
+---------------------------------------------------------------------------------
+Question A2
+db.appointments.insertMany([
+  {
+    appointmentId: "A001",
+    patientName: "Ali Hassan",
+    doctor: "Dr. Teh",
+    department: "Cardiology",
+    status: "COMPLETED",
+    fee: 180,
+    appointmentDate: ISODate("2025-01-05")
+  },
+  {
+    appointmentId: "A002",
+    patientName: "Nur Aisyah",
+    doctor: "Dr. Lim",
+    department: "Dermatology",
+    status: "PENDING",
+    fee: 90,
+    appointmentDate: ISODate("2025-01-10")
+  },
+  {
+    appointmentId: "A003",
+    patientName: "Jason Wong",
+    doctor: "Dr. Ahmad",
+    department: "Orthopedics",
+    status: "CANCELLED",
+    fee: 120,
+    appointmentDate: ISODate("2025-01-12")
+  },
+  {
+    appointmentId: "A004",
+    patientName: "Siti Aminah",
+    doctor: "Dr. Kumar",
+    department: "Neurology",
+    status: "COMPLETED",
+    fee: 250,
+    appointmentDate: ISODate("2025-01-08")
+  },
+  {
+    appointmentId: "A005",
+    patientName: "Daniel Lee",
+    doctor: "Dr. Teh",
+    department: "Cardiology",
+    status: "PENDING",
+    fee: 160,
+    appointmentDate: ISODate("2025-01-15")
+  },
+  {
+    appointmentId: "A006",
+    patientName: "Farah Zainal",
+    doctor: "Dr. Lim",
+    department: "Dermatology",
+    status: "COMPLETED",
+    fee: 100,
+    appointmentDate: ISODate("2025-01-18")
+  }
+])
+
+db.loginSessions.insertMany([
+  {
+    staffId: "S001",
+    staffName: "Ahmad Firdaus",
+    role: "Doctor",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.10",
+    loginTime: ISODate("2025-01-15T08:30:00")
+  },
+  {
+    staffId: "S002",
+    staffName: "Siti Noor",
+    role: "Nurse",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.12",
+    loginTime: ISODate("2025-01-15T09:00:00")
+  },
+  {
+    staffId: "S003",
+    staffName: "Jason Lim",
+    role: "Receptionist",
+    status: "INACTIVE",
+    ipAddress: "192.168.1.15",
+    loginTime: ISODate("2025-01-14T17:45:00")
+  },
+  {
+    staffId: "S004",
+    staffName: "Nur Huda",
+    role: "Admin",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.20",
+    loginTime: ISODate("2025-01-15T07:50:00")
+  },
+  {
+    staffId: "S005",
+    staffName: "Daniel Wong",
+    role: "Doctor",
+    status: "INACTIVE",
+    ipAddress: "192.168.1.22",
+    loginTime: ISODate("2025-01-13T18:10:00")
+  },
+  {
+    staffId: "S006",
+    staffName: "Aina Rahman",
+    role: "Nurse",
+    status: "ACTIVE",
+    ipAddress: "192.168.1.25",
+    loginTime: ISODate("2025-01-15T10:15:00")
+  }
+])
+
+---------------------------------------------------------------------------
+Question B1
+db.appointments.find(
+  {
+    status:"COMPLETED",
+    fee:{$gte: 100, $lte: 300}
+  }, 
+  {
+    _id: 0,
+    appointmentId: 1,
+    patientName: 1,
+    department: 1,
+    fee: 1}).sort(
+  {
+    department: 1,
+    fee: -1
+  })
+
+----------------------------------------------------------------------------
+Question B2
+db.appointments.aggregate([
+  {
+    $group: 
+    { 
+      _id:"$department", 
+      totalAppointments:{$sum:1},
+      totalFees:{$sum:"$fee"}
+    }
+  }]).sort({totalFees:-1})
+
+----------------------------------------------------------------------------
+Question C1
+db.loginSessions.find(
+  {status:"ACTIVE"}, 
+  {_id:0, staffName:1, role:1, ipAddress:1, loginTime:1}
+).sort({loginTime:-1})
+
+----------------------------------------------------------------------------
+Question C2 (a)
+db.loginSessions.distinct("ipAddress",{status: "ACTIVE"})
+
+----------------------------------------------------------------------------
+Question C2 (b)
+db.loginSessions.distinct("staffId", {status: "ACTIVE"}).length
+
+----------------------------------------------------------------------------
+Question D1
+db.appointments.createIndex({department:1, status: 1})
+
+----------------------------------------------------------------------------
+Question D2 (a)
+db.appointments.updateMany(
+  {status:"CANCELLED"},
+  {$set: {status:"ARCHIVED"}}
+)
+
+----------------------------------------------------------------------------
+Question D2 (b)
+db.loginSessions.deleteMany({status: "INACTIVE"})
+
+----------------------------------------------------------------------------
