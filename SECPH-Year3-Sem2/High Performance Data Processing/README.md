@@ -3,7 +3,7 @@ This course introduces fundamental concepts of high-performance data processing,
 
 ## Assignment 1
 This assignment involves an academic comparison between SAP HANA and traditional database systems, focusing on their architecture, performance, and data processing capabilities. It develops skills in research, critical analysis, and structured academic writing while emphasizing proper citation and independent learning. Overall, the assignment highlights the advantages and limitations of both systems in handling modern data requirements.
-- Academic Writing
+- [Academic Writing](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/High%20Performance%20Data%20Processing/SAP%20HANA%20Academic%20Writing.pdf)
 
 ## Assignment 2
 This assignment focuses on handling and processing large-scale datasets using Python libraries such as Pandas, Dask, and Polars. It involves applying techniques like chunking, sampling, type optimization, and parallel computing to efficiently manage a 1.57GB environmental dataset. Overall, the assignment develops practical skills in big data processing and performance benchmarking across different data-processing frameworks.
