@@ -5,9 +5,9 @@ This course introduces the fundamentals of business intelligence, including data
 
 ## Project 
 This project focuses on analyzing Malaysian banking stocks by integrating financial performance data with macroeconomic indicators such as GDP, OPR, and the U.S. Federal Funds Rate. It aims to evaluate how internal financial metrics and external economic conditions influence the stock performance of major banks like Maybank, CIMB, and RHB. Overall, the project develops a BI dashboard to support data-driven analysis, visualization, and forecasting of banking sector trends.
-- Phase 1
-- Phase 2
-- Phase 3
+- [Phase 1](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Business%20Intelligence/Phase%201.pdf)
+- [Phase 2](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Business%20Intelligence/Phase%202.pdf)
+- [Phase 3](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Business%20Intelligence/Phase%203.pdf)
 - Phase 4
 
 ## Reflection
