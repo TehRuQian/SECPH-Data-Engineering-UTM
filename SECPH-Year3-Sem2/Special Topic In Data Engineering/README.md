@@ -2,16 +2,26 @@
 This course explores modern data engineering concepts, tools, and industry trends, helping students connect what they learn in class with real-world practices. It covers big data technologies, emerging tools, and how large-scale data systems are managed in the industry. Students gain practical experience through hands-on labs, projects, and interactions with industry experts, including talks and visits. The course combines lectures, active learning, and collaborative work to give a well-rounded, practical understanding of data engineering.
 
 # Assignment
-### [Technical Report]()
+### [Technical Report](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Special%20Topic%20In%20Data%20Engineering/Academic%20Writing%20Modern%20Architecture.pdf)
 `REFLECTION ` Working on this technical report about modern data engineering helped me deepen my understanding of the topic and its real-world applications. It also showed me that I need to improve my writing skills to present technical ideas more clearly and effectively.
 
 ### [Tutorial MS Azure End-To-End Data Engineering Project](https://github.com/TehRuQian/End2End-ADF)
-`REFLECTION ` By completing this project, I gained a better understanding of how an end-to-end data pipeline works. I was able to see how different Azure services are connected and how data moves from one stage to another, starting from data ingestion, followed by transformation, and finally visualization. I also learned how important it is to properly structure and clean data before using it for analysis.
+`REFLECTION ` By completing this tutorial, I gained a better understanding of how an end-to-end data pipeline works. I was able to see how different Azure services are connected and how data moves from one stage to another, starting from data ingestion, followed by transformation, and finally visualization. I also learned how important it is to properly structure and clean data before using it for analysis.
 
 ### [Tutorial Creating Simple ETL Pipeline With Apache Spark](https://github.com/TehRuQian/Simple-ETL-Pipeline-With-Apache-Spark)
-`REFLECTION ` This project was challenging because it involved integrating multiple technologies such as Python, Apache Spark, Docker, PostgreSQL, and Metabase while adapting Linux-based configurations to a Windows environment using WSL. Setting up components like the PostgreSQL JDBC driver, Apache Spark, and Hadoop required extensive troubleshooting and collaboration among team members. Overall, the project enhanced our data engineering skills, problem-solving abilities, teamwork, and practical experience in building real-world ETL pipelines.
+`REFLECTION ` This tutorial was challenging because it involved integrating multiple technologies such as Python, Apache Spark, Docker, PostgreSQL, and Metabase while adapting Linux-based configurations to a Windows environment using WSL. Setting up components like the PostgreSQL JDBC driver, Apache Spark, and Hadoop required extensive troubleshooting and collaboration among team members. Overall, the project enhanced our data engineering skills, problem-solving abilities, teamwork, and practical experience in building real-world ETL pipelines.
 
-### [Project Industry PPG]()
+### [Tutorial Image Classification using CNN](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Special%20Topic%20In%20Data%20Engineering/Tutorial%203.pdf)
+`REFLECTION `This tutorial provided hands-on experience with ANN and CNN models for image classification, including data preparation, training, evaluation, and enhancement techniques such as data augmentation, batch normalization, and dropout. Due to the laptop's 4 GB RAM limitation, Google Colab was used for model training. Overall, the project improved understanding of deep learning, computer vision, and the advantages of CNNs in achieving higher classification accuracy.
+
+### [Tutorial Article](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Special%20Topic%20In%20Data%20Engineering/Tutorial%20Article.pdf)
+`REFLECTION `This tutorial improved understanding of system development processes, including use case design, ERD creation, and database design. It provided practical knowledge of how system requirements are translated into structured database models and efficient system designs.
+
+### [Tutorial The AI Workflow for Data Engineering](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Special%20Topic%20In%20Data%20Engineering/Tutorial%204.pdf)
+`REFLECTION `This tutorial improved understanding of AI-assisted workflows and data engineering concepts, including data cleaning, transformation, analytics marts, and dashboard development using Codex. It highlighted the importance of clear prompt writing, showing that AI tools are most effective when guided with detailed instructions and structured planning.
+
+### [Project Industry PPG](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Special%20Topic%20In%20Data%20Engineering/Report%20Project%20Industry%20PPG.pdf)
+`REFLECTION ` This project provided hands-on experience in building an end-to-end data pipeline, analyzing inventory risks, and developing dashboards for business insights. It offered exposure to a near real-world industry scenario, strengthening practical data engineering and analytics skills.
 
 # Industry-based Learning
 ### Industry Visit to PPG
