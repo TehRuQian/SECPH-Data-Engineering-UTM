@@ -25,10 +25,32 @@ This course explores modern data engineering concepts, tools, and industry trend
 
 # Industry-based Learning
 ### Industry Visit to PPG
+- [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_sap-dataanalytics-activity-7447278017049092096-RbFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
+
 `REFLECTION ` On 3 July 2026, I had the chance to visit PPG and it was a really meaningful experience. We learnt more about how SAP and data analytics are actually used in a real working environment, which made things feel much more practical compared to what we study in class. I also enjoyed hearing about the seniors’ internship experiences—it gave me a better idea of what to expect and how I can start preparing myself. Overall, really grateful for the opportunity and the insights shared. Definitely learned a lot from this visit. 
 
 ### Workshop on Advanced Machine Learning
 `REFLECTION ` This workshop conducted by Dr. Shamini provided a clear understanding of how to evaluate and improve classification models using metrics such as precision, recall and F1-score, rather than relying only on accuracy. It introduced a structured approach starting with a baseline model like SVM, followed by improvements through hyperparameter tuning such as Optuna and hybrid models, then comparing results to select the most suitable model. Overall, the session emphasized that the best model is one that achieves balanced performance across key metrics, not just the highest accuracy.
 
 - [Hands-on Activity](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Special%20Topic%20In%20Data%20Engineering/Workshop%20Advanced%20Machine%20Learning.ipynb)
+
+### Industry Talk by iZeno
+- [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_ai-agenticai-rag-activity-7461733304229261312-lX1l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
+
+`REFLECTION ` On 13 May 2026,I attended an industry talk by iZeno. It was a very insightful session. I learned a lot from Jovinka’s sharing on topics such as Agentic AI, RAG & knowledge mining, Model Context Protocol (MCP), multimodal AI across text, image, video, and audio as well as AI governance, data quality, and conversational BI. Beyond the technical knowledge, she also shared valuable advice on the skills and mindset needed to grow as an employee in today’s AI-driven industry. Grateful for the opportunity to attend such an informative session and gain deeper insights into the evolving AI landscape. 
+
+### Industry Talk by Ernst & Young
+- [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_ey-careerdevelopment-ai-activity-7462739409050775554-V7HF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
+
+`REFLECTION ` On 13 May 2026, I attended an industry talk by Ernst & Young (EY) , where I gained insights into EY’s service lines and how they support clients across industries. The session highlighted the growing impact of AI and data analytics in professional services and emphasized the importance of digital skills, while also providing useful tips on effective CV and resume writing.
+
+### Industry Talk by Mr. Zaid
+- [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_industrytalk-businesstransformation-enterprisesystems-activity-7463104182342926336-LDoM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
+
+`REFLECTION `  On 20 May 2026, I attended an industry talk by Mr. Zaid, where he shared valuable insights on business growth and the challenges of managing expanding enterprises. A key takeaway was that “business changes faster than systems,” highlighting the need for technology to continuously adapt to evolving business needs. The session provided a better understanding of the relationship between business and technology in the industry.
+
+### Industry Talk by Faiz Fablillah
+- [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_datagovernance-dataengineering-dataanalytics-activity-7464682198743400448-yCQT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
+
+`REFLECTION `On 20 May 2026, I attended a talk by Faiz Fablillah, who shared insights on data governance, data quality, analytics, and the role of AI in business. A key takeaway was the importance of making organizational data accessible, trustworthy, and usable through effective data governance, while ensuring accountability by maintaining traceability from reports back to the original data source. The session highlighted the need to balance innovation and speed with proper governance practices.
 
