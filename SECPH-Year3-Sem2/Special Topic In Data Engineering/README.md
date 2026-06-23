@@ -39,18 +39,10 @@ This course explores modern data engineering concepts, tools, and industry trend
 
 `REFLECTION ` On 13 May 2026,I attended an industry talk by iZeno. It was a very insightful session. I learned a lot from Jovinka’s sharing on topics such as Agentic AI, RAG & knowledge mining, Model Context Protocol (MCP), multimodal AI across text, image, video, and audio as well as AI governance, data quality, and conversational BI. Beyond the technical knowledge, she also shared valuable advice on the skills and mindset needed to grow as an employee in today’s AI-driven industry. Grateful for the opportunity to attend such an informative session and gain deeper insights into the evolving AI landscape. 
 
-### Industry Talk by Ernst & Young
-- [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_ey-careerdevelopment-ai-activity-7462739409050775554-V7HF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
-
-`REFLECTION ` On 13 May 2026, I attended an industry talk by Ernst & Young (EY) , where I gained insights into EY’s service lines and how they support clients across industries. The session highlighted the growing impact of AI and data analytics in professional services and emphasized the importance of digital skills, while also providing useful tips on effective CV and resume writing.
 
 ### Industry Talk by Mr. Zaid (TMOne)
 - [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_industrytalk-businesstransformation-enterprisesystems-activity-7463104182342926336-LDoM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
 
 `REFLECTION `  On 20 May 2026, I attended an industry talk by Mr. Zaid, where he shared valuable insights on business growth and the challenges of managing expanding enterprises. A key takeaway was that “business changes faster than systems,” highlighting the need for technology to continuously adapt to evolving business needs. The session provided a better understanding of the relationship between business and technology in the industry.
 
-### Industry Talk by Faiz Fablillah
-- [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_datagovernance-dataengineering-dataanalytics-activity-7464682198743400448-yCQT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
-
-`REFLECTION `On 20 May 2026, I attended a talk by Faiz Fablillah, who shared insights on data governance, data quality, analytics, and the role of AI in business. A key takeaway was the importance of making organizational data accessible, trustworthy, and usable through effective data governance, while ensuring accountability by maintaining traceability from reports back to the original data source. The session highlighted the need to balance innovation and speed with proper governance practices.
 
