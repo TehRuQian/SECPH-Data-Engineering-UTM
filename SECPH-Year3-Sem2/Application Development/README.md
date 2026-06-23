@@ -7,5 +7,5 @@ This lab involves developing a basic daily activity management application using
 ## [Lab 2](https://github.com/TehRuQian/SECPH-Data-Engineering-UTM/blob/main/SECPH-Year3-Sem2/Application%20Development/Lab2_Proposal_Section2_GroupPizza.pdf)
 This lab involved developing a project proposal based on the requirements provided by the industry partner. The project proposal included identifying the key system modules, allocating responsibilities among team members, and defining the mandatory technical requirements necessary for successful project implementation.
 
-## Project 
+## [Project ](https://github.com/tanyiya/teacher-management-system)
 This project aims to develop a centralized kindergarten management system for Tadika Genius Aulad to improve communication, workload management, and administrative efficiency. The system enables teachers and principals to manage tasks, report issues, monitor performance, and access important information through a single platform.
