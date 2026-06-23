@@ -44,7 +44,7 @@ This course explores modern data engineering concepts, tools, and industry trend
 
 `REFLECTION ` On 13 May 2026, I attended an industry talk by Ernst & Young (EY) , where I gained insights into EY’s service lines and how they support clients across industries. The session highlighted the growing impact of AI and data analytics in professional services and emphasized the importance of digital skills, while also providing useful tips on effective CV and resume writing.
 
-### Industry Talk by Mr. Zaid
+### Industry Talk by Mr. Zaid (TMOne)
 - [Linked In](https://www.linkedin.com/posts/ru-qian-teh-6745b9295_industrytalk-businesstransformation-enterprisesystems-activity-7463104182342926336-LDoM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEd1R3gBH5i3hOu46CHq1P8e_wLf82Z81b0)
 
 `REFLECTION `  On 20 May 2026, I attended an industry talk by Mr. Zaid, where he shared valuable insights on business growth and the challenges of managing expanding enterprises. A key takeaway was that “business changes faster than systems,” highlighting the need for technology to continuously adapt to evolving business needs. The session provided a better understanding of the relationship between business and technology in the industry.
