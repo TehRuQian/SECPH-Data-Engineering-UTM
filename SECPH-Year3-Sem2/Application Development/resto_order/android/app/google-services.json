@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163186978471",
+    "project_id": "restaurant-order-system-cc60f",
+    "storage_bucket": "restaurant-order-system-cc60f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163186978471:android:549e1a428f138c3609b582",
+        "android_client_info": {
+          "package_name": "com.example.resto_order"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjOpwjfNT_5BW1JWujRXq7bTHQDUEj1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163186978471:android:f93908228f1d20ab09b582",
+        "android_client_info": {
+          "package_name": "com.teh.resto_order"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzjOpwjfNT_5BW1JWujRXq7bTHQDUEj1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

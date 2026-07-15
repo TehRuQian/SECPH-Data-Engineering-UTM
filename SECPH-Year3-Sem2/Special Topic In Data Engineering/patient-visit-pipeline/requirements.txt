@@ -1,0 +1,6 @@
+pyspark==3.5.1
+setuptools
+requests
+psycopg2-binary
+pandas
+scikit-learn
